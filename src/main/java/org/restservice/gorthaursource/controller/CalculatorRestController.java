@@ -12,9 +12,6 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-/**
- * @author kraken
- */
 @RestController
 public class CalculatorRestController {
     private final CalculatorService calculatorService;
